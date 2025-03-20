@@ -35,13 +35,13 @@
           <mxGeometry x="400" y="322" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXDvE0RAGK1XXc-n6YuC-105" value="&lt;div&gt;视觉感知&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="402" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXDvE0RAGK1XXc-n6YuC-106" value="温度监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXDvE0RAGK1XXc-n6YuC-107" value="湿度监测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXDvE0RAGK1XXc-n6YuC-109" value="升降控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="178" width="120" height="60" as="geometry" />
